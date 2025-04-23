@@ -11,7 +11,7 @@ The purpose of this technical test is to demonstrate the ability to create a sim
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-repo/logup-api.git
+   git clone https://github.com/theoxDEV/LogUpTest
    cd logup-api
    ```
 
